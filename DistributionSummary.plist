@@ -38,8 +38,6 @@
 					</dict>
 					<key>name</key>
 					<string>Vuforia.framework</string>
-					<key>symbols</key>
-					<true/>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -51,8 +49,6 @@
 			</array>
 			<key>name</key>
 			<string>ProductName.app</string>
-			<key>symbols</key>
-			<true/>
 			<key>team</key>
 			<dict>
 				<key>id</key>
