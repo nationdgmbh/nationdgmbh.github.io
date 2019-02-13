@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>http://clientserver-nationd.com/Unity-iPhone.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://nationdgmbh.github.io/Unity-iPhone-small.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://nationdgmbh.github.io/Unity-iPhone-big.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
