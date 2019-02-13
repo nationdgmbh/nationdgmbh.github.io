@@ -24,7 +24,7 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>https://nationdgmbh.github.io/Unity-iPhone.ipa</string>
+			<string>http://clientserver-nationd.com/Unity-iPhone.ipa</string>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
